@@ -94,7 +94,7 @@ export const pulse = {
     scale: 1,
   },
   0.5: {
-    scale: 1.05,
+    scale: 1.18,
   },
   1: {
     scale: 1,
